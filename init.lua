@@ -18,7 +18,7 @@ require("lazy").setup({
   {
     "yacosta738/NvChad",
     lazy = false,
-    branch = "v2.5",
+    branch = "main",
     import = "nvchad.plugins",
   },
 
